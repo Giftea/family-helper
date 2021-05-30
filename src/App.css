@@ -12,7 +12,8 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+/* https://d4y4l5ry2nbsdar6fvou5ejpcq.appsync-api.us-east-2.amazonaws.com/graphql
+ */
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
